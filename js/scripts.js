@@ -97,7 +97,7 @@ const data = [
     resultContainer.classList.toggle("hide");
   }
   
-  // Init
+  // Inicialização
   createTable(data);
   
   // Eventos
